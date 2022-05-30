@@ -2,4 +2,6 @@
 
 Este é um respositório teste para aprender como funciona o Git.
 
-Sainba mais em...
+Saiba mais em...
+
+Aprendendo a usar o comando diff!
